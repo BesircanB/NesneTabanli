@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\bin\Debug\ArmStrong.exe.config
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\bin\Debug\ArmStrong.exe
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\bin\Debug\ArmStrong.pdb
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\obj\Debug\ArmStrong.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\obj\Debug\ArmStrong.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\obj\Debug\ArmStrong.exe
+C:\Users\Beşir Can\source\repos\ArmStrong\ArmStrong\obj\Debug\ArmStrong.pdb

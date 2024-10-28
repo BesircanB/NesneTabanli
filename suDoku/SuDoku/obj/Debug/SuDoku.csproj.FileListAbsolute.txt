@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\bin\Debug\SuDoku.exe.config
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\bin\Debug\SuDoku.exe
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\bin\Debug\SuDoku.pdb
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\obj\Debug\SuDoku.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\obj\Debug\SuDoku.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\obj\Debug\SuDoku.exe
+C:\Users\Beşir Can\source\repos\SuDoku\SuDoku\obj\Debug\SuDoku.pdb

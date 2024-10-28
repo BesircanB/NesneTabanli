@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\bin\Debug\CumledekiKelimeSayilari.exe.config
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\bin\Debug\CumledekiKelimeSayilari.exe
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\bin\Debug\CumledekiKelimeSayilari.pdb
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\obj\Debug\CumledekiKelimeSayilari.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\obj\Debug\CumledekiKelimeSayilari.exe
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\obj\Debug\CumledekiKelimeSayilari.pdb
+C:\Users\Beşir Can\source\repos\CumledekiKelimeSayilari\CumledekiKelimeSayilari\obj\Debug\CumledekiKelimeSayilari.csprojAssemblyReference.cache

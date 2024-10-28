@@ -1,0 +1,7 @@
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\bin\Debug\FibonacciAdımSayisi.exe.config
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\bin\Debug\FibonacciAdımSayisi.exe
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\bin\Debug\FibonacciAdımSayisi.pdb
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\obj\Debug\FibonacciAdımSayisi.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\obj\Debug\FibonacciAdımSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\obj\Debug\FibonacciAdımSayisi.exe
+C:\Users\Beşir Can\source\repos\FibonacciAdımSayisi\FibonacciAdımSayisi\obj\Debug\FibonacciAdımSayisi.pdb

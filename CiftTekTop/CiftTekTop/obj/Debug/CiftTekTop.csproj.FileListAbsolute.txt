@@ -1,0 +1,6 @@
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\bin\Debug\CiftTekTop.exe.config
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\bin\Debug\CiftTekTop.exe
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\bin\Debug\CiftTekTop.pdb
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\obj\Debug\CiftTekTop.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\obj\Debug\CiftTekTop.exe
+C:\Users\Beşir Can\source\repos\CiftTekTop\CiftTekTop\obj\Debug\CiftTekTop.pdb
